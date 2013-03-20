@@ -1,0 +1,199 @@
+{
+	"music":[
+			{
+				"file":"1.mp3",
+				"lyrics":"\nWe still got a long way to go\nWe still got a long way to go\nWe all got a long way to go",
+				"correct":"Alice Cooper - Long Way to Go"
+			},
+			{
+				"file":"2.mp3",
+				"lyrics":"\nGonna recommend you to the spirit in the sky\nGonna recommend you to the spirit in the sky",
+				"correct":"Elton John - Spirit In The Sky"
+			},
+			{
+				"file":"3.mp3",
+				"lyrics":"\nLovin' is what I got, I said remember that\nLovin' is what I got, now remember that",
+				"correct":"Sublime - What I Got"
+			},
+			{
+				"file":"4.mp3",
+				"lyrics":"\nAnd I wonder, still I wonder\nWho'll stop the rain?",
+				"correct":"Creedence Clearwater Revival - Who'll Stop The Rain"
+			},
+			{
+				"file":"5.mp3",
+				"lyrics":"\nIs someone getting the best\nThe best, the best, the best of you?",
+				"correct":"Foo Fighter - Best Of You"
+			},
+			{
+				"file":"6.mp3",
+				"lyrics":"\nYou must explain why this must be\nDid you lie when you spoke to me",
+				"correct":"Clash - Train in Vain (Stand By Me)"
+			},
+			{
+				"file":"7.mp3",
+				"lyrics":"\n\nI don't want to be buried in a Pet Cemetery",
+				"correct":"Ramones - Pet Cemetary"
+			},
+			{
+				"file":"8.mp3",
+				"lyrics":"\nI'm hungry and the hunger will linger\nI eat sixteen saltine crackers then I lick my fingers",
+				"correct":"Jack White - Sixteen Saltines"
+			},
+			{
+				"file":"9.mp3",
+				"lyrics":"\nAnd I'll will wait,\nI will wait for you",
+				"correct":"Mumford & Sons - I Will Wait"
+			},
+			{
+				"file":"10.mp3",
+				"lyrics":"\nSer teu pão, ser tua comida\nTodo amor que houver nessa vida",
+				"correct":"Cássia Eller - Todo Amor Que Houver Nessa Vida"
+			},
+			{
+				"file":"11.mp3",
+				"lyrics":"\nLook around, Look around, Look around\nAll around, All around, All around",
+				"correct":"Red Hot Chili Peppers - Look Around"
+			},
+			{
+				"file":"12.mp3",
+				"lyrics":"\nAll the pictures have all been washed in black,\ntattooed everything",
+				"correct":"Pearl Jam - Black"
+			},
+			{
+				"file":"13.mp3",
+				"lyrics":"\nMas tudo bem\nTudo bem, tudo bem...",
+				"correct":"Legião Urbana - Giz"
+			},
+			{
+				"file":"14.mp3",
+				"lyrics":"\nExagerado, Jogado aos teus pés\nEu sou mesmo exagerado",
+				"correct":"Cazuza - Exagerado"
+			},
+			{
+				"file":"15.mp3",
+				"lyrics":"\n\nLove hurts, love scars, love wounds' and mars",
+				"correct":"Nazareth - Nazareth Love Hurts"
+			},
+			{
+				"file":"16.mp3",
+				"lyrics":"\n\nSelvagem",
+				"correct":"Legião Urbana -  Tempo perdido"
+			},
+			{
+				"file":"17.mp3",
+				"lyrics":"\nI don't practice Santeria,\nI ain't got no crystal ball",
+				"correct":"Sublime – Santeria"
+			},
+			{
+				"file":"18.mp3",
+				"lyrics":"\nJá faz tempo eu vi você na rua,\ncabelo ao vento gente jovem reunida",
+				"correct":"Elis Regina – Como Nossos pais"
+			},
+			{
+				"file":"19.mp3",
+				"lyrics":"\n\nQuando o segundo sol chegar, para realinhar...",
+				"correct":"Cássia Eller – O Segundo Sol"
+			},
+			{
+				"file":"20.mp3",
+				"lyrics":"\n\nAnd I wonder still I wonder who'll stop the rain",
+				"correct":"Credence – Who’ll Stop the Rain"
+			},
+			{
+				"file":"21.mp3",
+				"lyrics":"\nYou know I'm drifting along (drifting along),\ncan't see where I'm going",
+				"correct":"Jamiroquai – Drifiting Along"
+			},
+			{
+				"file":"22.mp3",
+				"lyrics":"\nBut I'm growing hungry\n(growing hungry)",
+				"correct":"Temple of the dog – Hunger Strike"
+			},
+			{
+				"file":"23.mp3",
+				"lyrics":"\nBy the way,\nI tried to say I'd be there,\nwaiting for",
+				"correct":"Red Hot Chilli Peppers – By the Way"
+			},
+			{
+				"file":"24.mp3",
+				"lyrics":"\nDon't go around tonight, well,\nit's bound to take your life,\nthere's a bad moon on the rise",
+				"correct":"Credeence – Bad Moon Rising"
+			},
+			{
+				"file":"25.mp3",
+				"lyrics":"\nWell, I ain't the same no more,\nin fact I have changed from before",
+				"correct":"Alabama Shakes – I Ain’t the same"
+			},
+			{
+				"file":"26.mp3",
+				"lyrics":"\nIt's times like these you learn to live again,\nit's time like these you give...",
+				"correct":"Foo Fighters – Times Like These"
+			},
+			{
+				"file":"27.mp3",
+				"lyrics":"\nIt's a beautiful day,\nsky falls you feel like",
+				"correct":"U2 – Beautiful Day"
+			},
+			{
+				"file":"28.mp3",
+				"lyrics":"\n\nWhere are you know",
+				"correct":"Nazareth – Where Are You Now"
+			},
+			{
+				"file":"29.mp3",
+				"lyrics":"\n\nLights will guide you home, and...",
+				"correct":"Cold Play – Fix You"
+			},
+			{
+				"file":"30.mp3",
+				"lyrics":"\nOh where, oh where can my baby be?\nThe lord took her away from me",
+				"correct":"Pearl Jam – Last Kiss"
+			},
+			{
+				"file":"31.mp3",
+				"lyrics":"\nI hope you don't mind,\nI hope you don't mind,\nthat I put down in words",
+				"correct":"Elton John – Your Song"
+			},
+			{
+				"file":"32.mp3",
+				"lyrics":"\nWhen I'm lying in my bed at night,\nI don't wanna grow up,\nnothing ever seems to turn out right",
+				"correct":"Ramones – I Don’t Want To Grow Up"
+			},
+			{
+				"file":"33.mp3",
+				"lyrics":"\n...Mis patas solo tiran y tiran,\nme empujan para correr ...",
+				"correct":"Astro - Ciervos"
+			},
+			{
+				"file":"34.mp3",
+				"lyrics":"\n...le digo Bonito todo me parece bonito...",
+				"correct":"Jarabe de palo - Bonito"
+			},
+			{
+				"file":"35.mp3",
+				"lyrics":"\nSittin' on a bencho, waitin' for the teco\nGuacamole\nCarne con frijole', carne con frijole...",
+				"correct":"Kevin Johansen - Guacamole"
+			},
+			{
+				"file":"36.mp3",
+				"lyrics":"\n...Me gusta soñar, me gustas tu\nMe gusta la mar, me gustas tu\nQue voy a hacer...",
+				"correct":"Manu Chao - Me gustas tu"
+			},
+			{
+				"file":"37.mp3",
+				"lyrics":"\nEsta es la historia de una niña q vivía\nen el barrio de la paz...",
+				"correct":"Mala Rodríguez - La Niña"
+			},
+			{
+				"file":"38.mp3",
+				"lyrics":"\nTienen tanto que perder\nSin embargo no pueden parar",
+				"correct":"GOTAN PROJECT - Peligro"
+			},
+			{
+				"file":"39.mp3",
+				"lyrics":"\nLloroesta mala suerte\nque me vamatando, que me vamatando.",
+				"correct":"Chicha Libre - El Borrachito"
+			}
+	]
+}
